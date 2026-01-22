@@ -1,4 +1,4 @@
-# 🏛️ AI Board of Advisors
+# 🏛️ Business Board of Advisors
 
 Get personalized business advice from AI versions of the world's top business minds.
 
@@ -22,8 +22,8 @@ Go to [console.anthropic.com](https://console.anthropic.com) and create an API k
 
 ### 2. Clone & Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-board-of-advisors.git
-cd ai-board-of-advisors
+git clone https://github.com/YOUR_USERNAME/business-board-of-advisors.git
+cd business-board-of-advisors
 ./setup.sh
 ```
 

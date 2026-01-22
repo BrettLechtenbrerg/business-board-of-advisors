@@ -254,7 +254,7 @@ def interactive_mode(client: Anthropic):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Consult your AI Board of Advisors",
+        description="Consult your Business Board of Advisors",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:

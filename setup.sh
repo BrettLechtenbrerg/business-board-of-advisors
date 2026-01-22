@@ -2,7 +2,7 @@
 #
 # 🏛️ Business Board of Advisors - Setup Script
 #
-# This script will set up your personal AI Board of Advisors
+# This script will set up your personal Business Board of Advisors
 # You'll need an Anthropic API key (get one at https://console.anthropic.com)
 #
 
